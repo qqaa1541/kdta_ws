@@ -1,0 +1,4 @@
+[ 33%] Built target helloworld
+[ 66%] Built target helloOpenCV
+[35m[1mConsolidate compiler generated dependencies of target hello_publisher[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/hello_publisher.dir/src/hello_publisher.cpp.o[0m

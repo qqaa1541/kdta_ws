@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/pdy/kdta_ws/build/simple_pkg_cpp/helloworld" "/home/pdy/kdta_ws/build/simple_pkg_cpp/helloOpenCV" "TARGETS" "helloworld" "helloOpenCV" "DESTINATION" "lib/simple_pkg_cpp")

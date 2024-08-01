@@ -1,0 +1,7 @@
+[01m[K/home/pdy/kdta_ws/src/simple_pkg_cpp/src/helloOpenCV.cpp:[m[K In function ‘[01m[Kint main()[m[K’:
+[01m[K/home/pdy/kdta_ws/src/simple_pkg_cpp/src/helloOpenCV.cpp:10:5:[m[K [01;31m[Kerror: [m[K‘[01m[Kwaitkey[m[K’ was not declared in this scope
+   10 |     [01;31m[Kwaitkey[m[K(0);
+      |     [01;31m[K^~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/helloOpenCV.dir/build.make:76: CMakeFiles/helloOpenCV.dir/src/helloOpenCV.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:165: CMakeFiles/helloOpenCV.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

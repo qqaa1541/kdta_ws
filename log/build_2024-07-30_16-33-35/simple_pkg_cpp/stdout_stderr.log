@@ -1,0 +1,25 @@
+[35m[1mConsolidate compiler generated dependencies of target helloworld[0m
+[ 50%] Built target helloworld
+[35m[1mConsolidate compiler generated dependencies of target helloOpenCV[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/helloOpenCV.dir/src/helloOpenCV.cpp.o[0m
+[100%] [32m[1mLinking CXX executable helloOpenCV[0m
+[100%] Built target helloOpenCV
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/pdy/kdta_ws/install/simple_pkg_cpp/lib/simple_pkg_cpp/helloworld
+-- Symlinking: /home/pdy/kdta_ws/install/simple_pkg_cpp/lib/simple_pkg_cpp/helloOpenCV
+-- Symlinking: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/ament_index/resource_index/package_run_dependencies/simple_pkg_cpp
+-- Symlinking: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/ament_index/resource_index/parent_prefix_path/simple_pkg_cpp
+-- Symlinking: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/simple_pkg_cpp/environment/ament_prefix_path.sh
+-- Symlinking: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/simple_pkg_cpp/environment/ament_prefix_path.dsv
+-- Symlinking: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/simple_pkg_cpp/environment/path.sh
+-- Symlinking: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/simple_pkg_cpp/environment/path.dsv
+-- Symlinking: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/simple_pkg_cpp/local_setup.bash
+-- Symlinking: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/simple_pkg_cpp/local_setup.sh
+-- Symlinking: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/simple_pkg_cpp/local_setup.zsh
+-- Symlinking: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/simple_pkg_cpp/local_setup.dsv
+-- Symlinking: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/simple_pkg_cpp/package.dsv
+-- Symlinking: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/ament_index/resource_index/packages/simple_pkg_cpp
+-- Symlinking: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/simple_pkg_cpp/cmake/simple_pkg_cppConfig.cmake
+-- Symlinking: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/simple_pkg_cpp/cmake/simple_pkg_cppConfig-version.cmake
+-- Symlinking: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/simple_pkg_cpp/package.xml

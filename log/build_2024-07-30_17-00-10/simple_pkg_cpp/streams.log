@@ -1,0 +1,27 @@
+[0.041s] Invoking command in '/home/pdy/kdta_ws/build/simple_pkg_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/pdy/kdta_ws/build/simple_pkg_cpp -- -j2 -l2
+[0.333s] [ 33%] Built target helloOpenCV
+[0.338s] [ 66%] Built target helloworld
+[0.383s] [35m[1mConsolidate compiler generated dependencies of target hello_publisher[0m
+[0.458s] [100%] Built target hello_publisher
+[0.508s] Invoked command in '/home/pdy/kdta_ws/build/simple_pkg_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/pdy/kdta_ws/build/simple_pkg_cpp -- -j2 -l2
+[0.721s] Invoking command in '/home/pdy/kdta_ws/build/simple_pkg_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/pdy/kdta_ws/build/simple_pkg_cpp
+[0.754s] -- Install configuration: ""
+[0.755s] -- Execute custom install script
+[0.756s] -- Up-to-date symlink: /home/pdy/kdta_ws/install/simple_pkg_cpp/lib/simple_pkg_cpp/helloworld
+[0.756s] -- Up-to-date symlink: /home/pdy/kdta_ws/install/simple_pkg_cpp/lib/simple_pkg_cpp/helloOpenCV
+[0.758s] -- Up-to-date symlink: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/ament_index/resource_index/package_run_dependencies/simple_pkg_cpp
+[0.758s] -- Up-to-date symlink: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/ament_index/resource_index/parent_prefix_path/simple_pkg_cpp
+[0.759s] -- Up-to-date symlink: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/simple_pkg_cpp/environment/ament_prefix_path.sh
+[0.759s] -- Up-to-date symlink: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/simple_pkg_cpp/environment/ament_prefix_path.dsv
+[0.759s] -- Up-to-date symlink: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/simple_pkg_cpp/environment/path.sh
+[0.759s] -- Up-to-date symlink: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/simple_pkg_cpp/environment/path.dsv
+[0.760s] -- Up-to-date symlink: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/simple_pkg_cpp/local_setup.bash
+[0.760s] -- Up-to-date symlink: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/simple_pkg_cpp/local_setup.sh
+[0.760s] -- Up-to-date symlink: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/simple_pkg_cpp/local_setup.zsh
+[0.760s] -- Up-to-date symlink: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/simple_pkg_cpp/local_setup.dsv
+[0.760s] -- Symlinking: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/simple_pkg_cpp/package.dsv
+[0.783s] -- Up-to-date symlink: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/ament_index/resource_index/packages/simple_pkg_cpp
+[0.783s] -- Up-to-date symlink: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/simple_pkg_cpp/cmake/simple_pkg_cppConfig.cmake
+[0.784s] -- Up-to-date symlink: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/simple_pkg_cpp/cmake/simple_pkg_cppConfig-version.cmake
+[0.784s] -- Up-to-date symlink: /home/pdy/kdta_ws/install/simple_pkg_cpp/share/simple_pkg_cpp/package.xml
+[0.792s] Invoked command in '/home/pdy/kdta_ws/build/simple_pkg_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/pdy/kdta_ws/build/simple_pkg_cpp

@@ -1,0 +1,2 @@
+Invoking command in '/home/pdy/kdta_ws/build/simple_pkg_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/pdy/kdta_ws/src/simple_pkg_cpp -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/pdy/kdta_ws/install/simple_pkg_cpp
+Invoked command in '/home/pdy/kdta_ws/build/simple_pkg_cpp' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/pdy/kdta_ws/src/simple_pkg_cpp -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/pdy/kdta_ws/install/simple_pkg_cpp
