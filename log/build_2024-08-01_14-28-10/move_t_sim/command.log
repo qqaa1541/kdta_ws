@@ -1,0 +1,2 @@
+Invoking command in '/home/pdy/kdta_ws/build/move_t_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/pdy/kdta_ws/src/move_t_sim/moveTSim -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/pdy/kdta_ws/install/move_t_sim
+Invoked command in '/home/pdy/kdta_ws/build/move_t_sim' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/pdy/kdta_ws/src/move_t_sim/moveTSim -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/pdy/kdta_ws/install/move_t_sim

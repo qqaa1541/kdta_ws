@@ -1,0 +1,52 @@
+[0.118s] Invoking command in '/home/pdy/kdta_ws/build/move_t_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/pdy/kdta_ws/src/move_t_sim/moveTSim -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/pdy/kdta_ws/install/move_t_sim
+[0.637s] -- The C compiler identification is GNU 11.4.0
+[1.107s] -- The CXX compiler identification is GNU 11.4.0
+[1.182s] -- Detecting C compiler ABI info
+[1.778s] -- Detecting C compiler ABI info - done
+[1.831s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.832s] -- Detecting C compile features
+[1.838s] -- Detecting C compile features - done
+[1.914s] -- Detecting CXX compiler ABI info
+[2.309s] -- Detecting CXX compiler ABI info - done
+[2.367s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.376s] -- Detecting CXX compile features
+[2.404s] -- Detecting CXX compile features - done
+[2.449s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.201s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[3.637s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[4.037s] -- Found rclcpp: 16.0.9 (/opt/ros/humble/share/rclcpp/cmake)
+[4.549s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[4.635s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[4.721s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[4.869s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.111s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.983s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[6.019s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[6.911s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[7.179s] -- Found FastRTPS: /opt/ros/humble/include  
+[7.558s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[7.666s] -- Looking for pthread.h
+[8.365s] -- Looking for pthread.h - found
+[8.373s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[8.882s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[8.882s] -- Found Threads: TRUE  
+[9.857s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[10.186s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[10.698s] -- Added test 'lint_cmake' to check CMake code style
+[10.704s] -- Added test 'xmllint' to check XML markup files
+[10.708s] -- Configuring done
+[10.712s] [31mCMake Error at CMakeLists.txt:16 (add_executable):
+[10.714s]   Cannot find source file:
+[10.714s] 
+[10.714s]     src/moveTurtleSim.cpp
+[10.714s] 
+[10.714s]   Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h
+[10.714s]   .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc
+[10.714s] 
+[10.715s] [0m
+[10.715s] [31mCMake Error at CMakeLists.txt:16 (add_executable):
+[10.715s]   No SOURCES given to target: moveTurtleSim
+[10.715s] 
+[10.715s] [0m
+[10.715s] [0mCMake Generate step failed.  Build files cannot be regenerated correctly.[0m
+[10.751s] Invoked command in '/home/pdy/kdta_ws/build/move_t_sim' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/pdy/kdta_ws/src/move_t_sim/moveTSim -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/pdy/kdta_ws/install/move_t_sim
